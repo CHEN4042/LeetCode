@@ -7,4 +7,5 @@ JAVA Solutions for Leetcode
 
 ### Array
 
-- [q26 : Remove Duplicates from Sorted Array](Array/026.Remove-Duplicates-from-Sorted-Array/026.Remove-Duplicates-from-Sorted-Array.java)
+- [q26 : Remove Duplicates from Sorted Array](Array/026.Remove-Duplicates-from-Sorted-Array.java)
+- [q27 : Remove Element](Array/027.Remove-Element.java)
