@@ -5,12 +5,6 @@ JAVA Solutions for Leetcode
 
 ## Topics
 
-### Array
-
-- [26. Remove Duplicates from Sorted Array](Array/026.Remove-Duplicates-from-Sorted-Array.java)
-- [27. Remove Element](Array/027.Remove-Element.java)
-- [35. Search Insert Position]()
-
 | \# | Problems                                                                | Note                                                 |
 |----|-------------------------------------------------------------------------|------------------------------------------------------|
 |2|[2.Add_Two_Numbers](solution/2.Add_Two_Numbers/CH_2.Add_Two_Numbers.java)|[Note](solution/2.Add_Two_Numbers/CH_2.Add_Two_Numbers.java)|
