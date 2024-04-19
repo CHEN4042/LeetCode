@@ -1,5 +1,5 @@
 
-public class Solution {
+class Solution {
     public int removeDuplicates(int[] nums) {
 
         // 初始化指针，一个指向开头，一个指向下一个

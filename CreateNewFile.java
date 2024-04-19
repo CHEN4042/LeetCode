@@ -97,9 +97,9 @@ public class CreateNewFile {
     public static void main(String[] args) {
 
         // file name
-        String fileName = "2744.Find Maximum Number of String Pairs";
+        String fileName = "2. Add Two Numbers";
 
-        CreateNewFile createNewFile = new CreateNewFile(fileName);
+        new CreateNewFile(fileName);
 
     }
 
