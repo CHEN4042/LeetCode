@@ -97,7 +97,7 @@ public class CreateNewFile {
     public static void main(String[] args) {
 
         // file name
-        String fileName = "39. Combination Sum";
+        String fileName = "216. Combination Sum III";
 
         new CreateNewFile(fileName);
 
