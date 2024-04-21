@@ -66,7 +66,7 @@ public class CreateNewFile {
 
         String porblem = "[" + filename + "]";
         String link = "(" + filePath +")" + "|";
-        String markdown = "[Note]("+filePath + ")|";
+        String markdown = "[Note]("+solutionMarkdownPath + ")|";
         MainMDText = id + porblem + link + markdown;
     }
 
